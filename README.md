@@ -1,10 +1,11 @@
 #小飞机翻墙教程
+===
 
 ####1. 链接地址 
+---
 
-[https://order.shadowsocks.se/aff.php?aff=29506](https://order.shadowsocks.se/aff.php?aff=29506)
-[https://order.shadowsocks.se/aff.php?aff=29506](https://order.shadowsocks.se/aff.php?aff=29506)
-![小飞机官网 首页](https://upload-images.jianshu.io/upload_images/795875-2de7e178553c9ae1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+https://order.shadowsocks.se/aff.php?aff=29506
+
 
 ####2. 右上角 - 注册 
 - 输入姓名 + 邮箱 +密码即可
