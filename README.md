@@ -2,7 +2,7 @@
 ===
 
 1. 链接地址 
----
+=====
 
 https://order.shadowsocks.se/aff.php?aff=29506
 
