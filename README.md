@@ -3,7 +3,7 @@
 
 1. 链接地址 
 ---
-https://order.shadowsocks.se/aff.php?aff=29506
+https://order.shadowsocks.website/aff.php?aff=29506
 ---
 
 2. 右上角 - 注册 
